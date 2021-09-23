@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhenkai956
 - 👀 I’m interested in Industrial Automation.
 - 🌱 I’m currently learning Electrical Engineering and Automation.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Projects based on Matlab.
 - 📫 How to reach me zhenkai.li.956@outlook.com
 
 <!---
